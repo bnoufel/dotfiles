@@ -1,0 +1,23 @@
+[core]
+	excludesfile = ~/.gitignore_global
+	editor = vim
+[user]
+	name = Benjamin Noufel
+	email = benjamin.noufel@gmail.com
+[color]
+	ui = true
+	status = auto
+	showBranch = true
+[alias]
+	s = status
+	cm = commit -m
+	acm = commit -am
+	b = branch
+	ck = checkout
+[color "diff"]
+	meta = blue black bold
+[color "status"]
+    added = cyan bold
+    changed = white bold
+    untracked = magenta bold
+

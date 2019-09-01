@@ -1,0 +1,22 @@
+.DS_Store
+
+# IDE ignore
+.idea/
+.vscode/
+cmake-build-debug/
+CMakeLists.txt
+*.iml
+
+# Binaries ignore
+objects/
+a.out
+
+# Node projects
+node_modules/
+dist/
+
+# npm ignore
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
